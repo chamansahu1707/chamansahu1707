@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chamansahu1707
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning ionic framewrok,angular and angular material
 .
 
